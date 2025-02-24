@@ -1,27 +1,44 @@
-Agent for Eric Terms of Service
+# Agent for Eric Terms of Service
+
 Please read these terms of service ("Terms") carefully before using the Agent for Eric, a TikTok data - analysis plugin (the "Plugin"). By using the Plugin, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use the Plugin.
-1. Acceptance of Terms
+
+## 1. Acceptance of Terms
+
 These Terms constitute a legally binding agreement between you and the provider of the Agent for Eric.
 We may update these Terms from time to time. The updated Terms will be posted on the Plugin's interface, and your continued use of the Plugin after the changes become effective constitutes your acceptance of the new Terms.
-2. Description of Service
+
+## 2. Description of Service
+
 The Agent for Eric is designed to provide data - analysis services related to TikTok content. It allows you to search for and analyze specific topics, user information, and video - related data on TikTok.
 We reserve the right to modify, suspend, or discontinue the service, either temporarily or permanently, at any time without prior notice to you.
-3. User Responsibilities
+
+## 3. User Responsibilities
+
 Accurate Information: You are responsible for providing accurate and complete information when using the Plugin.
 Compliance with Laws: You must use the Plugin in compliance with all applicable laws, regulations, and TikTok's terms of use.
 No Malicious Use: You may not use the Plugin to engage in any malicious activities, such as data - scraping for illegal purposes, spamming, or disrupting the normal operation of the Plugin or TikTok.
-4. Intellectual Property
+
+## 4. Intellectual Property
+
 All intellectual property rights, including but not limited to copyrights, trademarks, and patents, in the Agent for Eric are owned by us or our licensors.
 You may not copy, modify, distribute, or create derivative works of the Plugin without our prior written consent.
-5. Limitation of Liability
+
+## 5. Limitation of Liability
+
 To the maximum extent permitted by law, in no event shall we be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with your use of the Plugin, including but not limited to loss of data, loss of profits, or business interruption.
 Our liability, if any, shall be limited to the amount you paid, if any, for using the Plugin in the 12 - month period prior to the claim.
-6. Indemnification
+
+## 6. Indemnification
+
 You agree to indemnify, defend, and hold us harmless from and against any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in connection with your use of the Plugin, your violation of these Terms, or your violation of any rights of a third - party.
-7. Termination
+
+## 7. Termination
+
 We may terminate or suspend your access to the Plugin immediately, without notice, if you violate these Terms.
 Upon termination, you must stop using the Plugin, and any licenses or rights granted to you under these Terms will immediately cease.
-8. Governing Law and Dispute Resolution
+
+## 8. Governing Law and Dispute Resolution
+
 These Terms shall be governed by and construed in accordance with the laws of [Jurisdiction].
 Any disputes arising out of or in connection with these Terms shall be resolved through arbitration in [Arbitration Location] in accordance with the rules of [Arbitration Institution].
 If you have any questions regarding these Terms, please contact us at [contact - ziyangxiami@gmail.com].
